@@ -132,8 +132,8 @@ STATICFILES_DIRS=[STATIC_DIR,]
 
 
 EMAIL_HOST='smtp.gmail.com'
-EMAIL_HOST_USER='shashivardhan0722@gmail.com'
-EMAIL_HOST_PASSWORD='uguletnahdrav@3'
+EMAIL_HOST_USER='shashivardhan072@gmail.com'
+EMAIL_HOST_PASSWORD='kaeumqjbunhmgiqn'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
 EMAIL_USE_SSL=False 
